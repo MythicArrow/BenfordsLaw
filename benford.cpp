@@ -8,6 +8,7 @@ void logFunc(int n){
 }
 int main() 
 {
+    //trial
     logFunc(1);
     return 0;
 }
